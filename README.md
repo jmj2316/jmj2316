@@ -1,7 +1,7 @@
 ## Hi there, I'm Minjong 👋
 
-- 🔭 I’m currently working on Korea Institute of Science and Technology (KIST), as a postdoc researcher
-- 👯 I’m looking to collaborate on climate AI 
+- 🔭 I’m currently working at Korea Institute of Science and Technology (KIST), as a postdoc researcher
+- 👯 I’m developer of the KARINA, an efficient global weather forecast model, and always looking to collaborate on climate AI 
 
 
 [![Minjong's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmj2316&theme=blue-green)](https://github.com/jmj2316/github-readme-stats)
