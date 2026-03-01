@@ -1,6 +1,6 @@
 ## Hi there, I'm Minjong 👋
 
-- 🔭 I’m currently working at the Korea Advanced Institute of Science and Technology (KAIST), as a postdoc researcher
+- 🔭 I’m currently working at the Sejong University, as an assistant professor
 - 👯 I’m the developer of the KARINA, an efficient global weather forecast model, and looking to collaborate on climate AI 
 
 
